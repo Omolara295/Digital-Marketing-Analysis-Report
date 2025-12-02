@@ -7,4 +7,8 @@ the impact of the initiatives.
 Making use of the interactive abilities of the Power BI dashboard, 
 this executive report presents a detailed overview of the marketing efforts across various channel. 
 
+## Objective
+To evaluate marketing effectiveness by examining ad spend, impressions, clicks, conversions, revenue, and ROI across various channels and products.
+
+
 

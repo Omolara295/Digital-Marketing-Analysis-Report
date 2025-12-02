@@ -16,3 +16,11 @@ To evaluate marketing effectiveness by examining ad spend, impressions, clicks, 
 * Power Query
 * DAX (for calculated measures)
 
+## 📈 Key Insights
+- **Total Ad Spend:** ₹2.42M
+- **Total Impressions:** 242M
+- **Total Clicks:** 12M
+- **Total Conversions:** 1M
+- **Total Revenue:** ₹344.33M
+- **Top Performing Products:** Cold Drink, Biscuits, Air Freshener
+- **Highest ROI Products:** Air Freshener, Moisturizer, Soap
